@@ -47,7 +47,7 @@ pipeline {
 
                 {
 
-                    bat label: '', script: 'mvn Install'
+                    bat label: '', script: 'mvn install'
 
                 }
 
