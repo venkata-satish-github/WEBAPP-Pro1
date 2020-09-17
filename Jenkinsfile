@@ -57,7 +57,7 @@ pipeline {
 
                 {
 
-                    bat label: '', script: 'mvn deploy'
+                    bat label: '', script: 'mvn redeploy'
 
                 }
 
