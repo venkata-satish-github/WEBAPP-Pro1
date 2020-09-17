@@ -49,9 +49,22 @@ pipeline {
 
                     bat label: '', script: 'mvn install'
 
+               }
+        }
+      stage ('Deploy Stage') {
+
+            steps 
+
+                {
+
+                    bat label: '', script: 'mvn deploy'
+
                 }
 
             }       
+        }       
     }
+    
+    
 
-}
+
