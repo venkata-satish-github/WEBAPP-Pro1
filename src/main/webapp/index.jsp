@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Pipeline script through  JENKINSFILE</h2>
+<h2>Welcome to Jenkins-Pipeline script through JENKINSFILE</h2>
 </body>
 </html>
