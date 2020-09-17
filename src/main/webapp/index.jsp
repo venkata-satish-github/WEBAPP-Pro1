@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!WELCOME TO JENKINS TRAINING</h2>
+<h2>Pipeline script through  JENKINSFILE</h2>
 </body>
 </html>
